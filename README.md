@@ -3,12 +3,19 @@
 Delivery-Delay-Analysis
 │
 ├── Zomato_Cleaned.csv                                # Cleaned dataset for analysis
+
 ├── ZD_DataAnalysis.ipynb                             # Jupyter Notebook for data cleaning
+
 ├── zd_dataanalysis.py                                # Python script version
+
 ├── Delivery_Delay_Analysis_Report.pdf                # Detailed project report
+
 ├── Presentation-Delivery-Delay-Analysis.pdf          # Project presentation
+
 ├── ZomatoBI.pbix                                     # Power BI dashboard file
+
 ├── Zomato Dataset.csv.zip                            # Original dataset (compressed)
+
 └── README.md                                         # Project documentation (this file)
 
 # Project Overview
